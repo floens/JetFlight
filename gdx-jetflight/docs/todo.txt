@@ -1,0 +1,16 @@
+Todo:
+
+Splash screen
+Background
+Sound
+
+
+When putting online:
+----
+
+Set JetFlight.DEBUG_MODE to false !!!
+
+
+
+
+
